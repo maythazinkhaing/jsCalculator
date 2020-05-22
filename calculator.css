@@ -1,11 +1,11 @@
 
 body {
-	background-color: white;
+	background-color: rgb(50, 65, 82);
 
 }
 .container {
 	width: 350px;
-	height: 520px;
+	height: 520px;  
 	box-shadow: 0 0 5px .5px rgba(0,0,0,.45);
 	margin: auto;
 	margin-top: 5%;
@@ -21,7 +21,7 @@ body {
 	padding: 5px;
 	font-size: 30px;
 	color:  #ff9900;
-
+	
 }
 table {
 	margin: auto;
